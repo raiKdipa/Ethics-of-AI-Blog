@@ -1,2 +1,2 @@
 # Ethics-of-AI-Blog
-I think Machine Learning is input and AI is output so data bias can be easily prevented through good ML practice. 
+In this artical I explain that do it is mean by ethical AI and how we can prevent data bias for better Machine Learning resuals.  
